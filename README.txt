@@ -1,0 +1,1 @@
+Исполннемый файл: dist/main/main.exe
